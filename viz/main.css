@@ -25,6 +25,14 @@
   image-orientation: unset
 }
 
+.img {
+  width: 650px;
+  height: 450px;
+  align-content: center;
+  margin: 0px 0px;
+  image-orientation: unset
+}
+
 h1 {
   color: navy;
   text-indent: 30px;

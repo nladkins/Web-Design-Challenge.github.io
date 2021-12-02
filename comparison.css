@@ -11,19 +11,14 @@
 }
 
 .box {
-  height: 400px;
+  width: 825px;
+  height: 325px;
   padding: 20px;
   color: #fff;
-  background: deepskyblue;
+  background: lightslategrey;
 }
 
-.image {
-  width: 800px;
-  height: 300px;
-  align-content: center;
-  margin: 0px 0px;
-  image-orientation: unset
-}
+
 
 h1 {
   color: navy;
@@ -34,6 +29,10 @@ h1 {
 h5 {
   margin: 35px;
   color: navy;
+}
+
+h3 {
+  text-underline-position: below;
 }
 
 p {
@@ -49,14 +48,6 @@ em {
 
 article {
   color: lightgray
-}
-
-img {
-width: 250px;
-height: 175px;
-box-align: left;
-margin: 0px 0px;
-image-orientation: unset;
 }
 
 .margin-top-10 {
